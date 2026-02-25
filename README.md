@@ -66,9 +66,6 @@ from statsmodels.stats.outliers_influence import variance_inflation_factor
 from scipy import stats
 from scipy.stats import uniform, randint, shapiro, kstest, anderson, chi2_contingency, normaltest
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-
-# Laporan ini dibagi menjadi 10 Sub-Bab yang membahas proses machine learning
 
 Bagian A: Business Understanding
 Mendalami mengenai bisnis, menemukan masalah dan target yang menjadi pondasi dalam proyek ini
